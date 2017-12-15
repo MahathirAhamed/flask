@@ -23,4 +23,4 @@ MAIL_SERVER = "smtp.webfaction.com"
 MAIL_USERNAME = None
 MAIL_PASSWORD = None
 MAIL_DEFAULT_SENDER = "Online Dagboek <noreply@online-dagboek.nl>"
-MAIL_DEFAULT_BCC = "jelle@hoest.nl"
+MAIL_DEFAULT_BCC = "mahathir.ahamed@provintl.com"
