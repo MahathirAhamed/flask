@@ -4,6 +4,7 @@ from urlparse import urlparse, urljoin
 import html2text
 import re
 import translitcodec
+import json
 
 try:
   from PIL import Image
