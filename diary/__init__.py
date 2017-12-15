@@ -11,6 +11,7 @@ from flaskext.markdown import Markdown
 from werkzeug import SharedDataMiddleware
 import flask.ext.restless
 import locale
+import json
 
 
 # create application
