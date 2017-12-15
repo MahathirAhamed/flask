@@ -16,7 +16,7 @@ dairy_user_table = db.Table(
 
 class User(db.Model, UserMixin):
   """
-  The User object
+  The User object adding columns
   """
   __tablename__ = "user"
 
