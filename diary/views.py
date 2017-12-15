@@ -3,6 +3,7 @@ from flask import g, session, render_template, redirect, url_for, flash, request
 from flask.ext.login import login_required, logout_user, login_user
 from flask_mail import Message
 import os
+import json
 
 
 @app.before_request
