@@ -32,7 +32,7 @@ class PictureForm(Form):
 
 class RedirectForm(Form):
   """
-  Form for redirect forms
+  Form for redirect forms of classes
   """
   next = HiddenField()
 
